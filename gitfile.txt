@@ -1,0 +1,5 @@
+GitHub Architecture
+Working tree
+Staging area
+Local repository
+Central repository
